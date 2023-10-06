@@ -194,6 +194,8 @@ a:hover {
             #242b33 92.19%
         ),
         url("./../img/header/header-bg2.jpg");
+    background-position: center center;
+    background-size: cover;
 }
 @media screen and (max-width: 959px) {
     .header {
